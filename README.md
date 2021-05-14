@@ -1,1 +1,1 @@
-# OCR-kraken-models
+# OCR kraken models for Historical Classical Commentaries
