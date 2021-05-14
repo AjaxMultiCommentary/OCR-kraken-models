@@ -1,0 +1,11 @@
+{
+    "$schema": "https://raw.githubusercontent.com/mittagessen/kraken/master/kraken/metadata.schema.json",
+    "authors": [{"name": "Bruce Robertson", "affiliation": "Mount Allison University"}],
+    "description": "TBD",
+    "license": "CC-BY-4.0",
+    "graphemes": [],
+    "summary": "TBD",
+    "name": "greek-german_serifs_bsb10234118",
+    "script": ["Latn", "Grek"],
+    "accuracy": 0
+}
