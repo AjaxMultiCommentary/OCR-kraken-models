@@ -1,5 +1,7 @@
 # OCR kraken models
 
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
 This repository contains pre-trained Kraken models for the OCR of historical classical commentaries. These models were trained on ground truth (GT) data from two sources: 
 1. the [Polytonic Greek Training Data from Historic Texts (Pogretra)](https://doi.org/10.5281/zenodo.4774200) dataset v1.0 (31,972 lines)
 2. the [OCR GT for Historical Commentaries](https://github.com/AjaxMultiCommentary/GT-commentaries-OCR) dataset (3,356 lines)
